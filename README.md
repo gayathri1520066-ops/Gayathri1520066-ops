@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Gayatri G
 
-<!--
-**gayathri1520066-ops/Gayathri1520066-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSM Student
+💻 Python & Machine Learning Enthusiast
+🧠 Currently Learning Deep Learning
+🚀 Open Source Beginner
+🌱 Always Learning New Technologies
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python
+- Machine Learning
+- Data Analysis
+- Pandas
+- NumPy
+- Scikit-learn
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Deep Learning
+- Neural Networks
+- Data Science
+
+## 📂 Projects
+- ❤️ Heart Disease Prediction using Machine Learning
+- Python Practice Programs
+
+## 📫 Connect with Me
+- LinkedIn: (Add your LinkedIn link here)
+
+⭐ Thanks for visiting my profile!
