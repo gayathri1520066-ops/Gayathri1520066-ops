@@ -23,8 +23,9 @@
 ## 📂 Projects
 - ❤️ Heart Disease Prediction using Machine Learning
 - Python Practice Programs
+- 
+## 🌐 Connect with Me
 
-## 📫 Connect with Me
-- LinkedIn: (Add your LinkedIn link here)
+[LinkedIn Profile](https://www.linkedin.com/in/gayatri-gundala-8aa773350/)
 
 ⭐ Thanks for visiting my profile!
